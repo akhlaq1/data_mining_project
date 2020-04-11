@@ -1,0 +1,5 @@
+,driver_age,driver_age,driver_age,license,license,license,visibility,visibility,visibility,sum,probability
+traffic_volume,high,low,medium,high,low,medium,high,low,medium,,
+conflict,,,,,,,,,,,
+conflict_no,2,1,2,2,1,2,2,1,2,15.0,0.35714285714285715
+conflict_yes,2,3,4,2,3,4,2,3,4,27.0,0.6428571428571429

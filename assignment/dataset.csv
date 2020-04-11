@@ -1,0 +1,15 @@
+traffic_volume,driver_age,license,visibility,conflict
+high,Young,no,fair,conflict_no
+high,Young,no,excellent,conflict_no
+high,Medium,no,fair,conflict_yes
+high,Medium,yes,fair,conflict_yes
+medium,Young,no,fair,conflict_no
+medium,Old,yes,fair,conflict_yes
+medium,Young,yes,excellent,conflict_yes
+medium,Medium,no,excellent,conflict_yes
+medium,Old,no,excellent,conflict_no
+medium,Old,no,fair,conflict_yes
+low,Old,yes,fair,conflict_yes
+low,Old,yes,excellent,conflict_no
+low,Medium,yes,excellent,conflict_yes
+low,Young,yes,fair,conflict_yes
